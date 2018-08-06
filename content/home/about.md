@@ -17,14 +17,14 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. in Finance, Ph.D. in Quantitative Finance"
+  institution = "University of Florida"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.Phil. in Risk Management Science"
+  institution = "Chinese University of Hong Kong"
+  year = 2012
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
