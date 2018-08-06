@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Finance, Ph.D. in Quantitative Finance"
+  course = "Ph.D. in Business Administration (Finance), Ph.D. in Quantitative Finance"
   institution = "University of Florida"
   year = 2016
 
@@ -27,14 +27,12 @@ weight = 5
   year = 2012
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "B.Sc. (Hons) in Risk Management Science"
+  institution = "Chinese University of Hong Kong"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+To be Updated...
