@@ -70,8 +70,8 @@ enableGitInfo = false
   address = "M507D, Li Ka Shing Tower, Hong Kong Polytechnic University, Hung Hom, Hong Kong"
   office_hours = "By appointment"
   phone = "2766 5612"
-  skype = "jycuhkcredit"
-  telegram = ""
+  #skype = "jycuhkcredit"
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -234,7 +234,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=qv6dkogAAAAJ&hl=zh-TW"
 
   [[params.social]]
     icon = "github"
