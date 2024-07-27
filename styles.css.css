@@ -1,0 +1,12 @@
+.cursor {
+    display: inline-block;
+    width: 10px;
+    background-color: black;
+    animation: blink 1s steps(2, start) infinite;
+}
+
+@keyframes blink {
+    50% {
+        background-color: transparent;
+    }
+}
